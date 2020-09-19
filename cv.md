@@ -4,7 +4,7 @@
 
 ## 1. Contacts
 **email:** eresha1231@gmail.com  
-**telegram:** t.me/eresha1
+**telegram:**  [@eresha1](https://t.me/eresha1)
 
 ## 2. Summary 
 My goal is to become a frontend developer React
